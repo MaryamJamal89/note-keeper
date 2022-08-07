@@ -1,4 +1,4 @@
-# lab6v2
+# Note Keeper 
 
 A new Flutter project.
 
